@@ -6,7 +6,7 @@ This is an interpreter for the [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) CP
 
 This is literally the first time I'm working with CUDA (besides cryptomining). Be aware that the code might be very, very bad, as well as the performance. The way I'm moving memory in and out of the GPU is slow and there are probably better ways of doing so. Also, Python might screw up the performance a bit.
 
-I don't think I have to say this, but don't use this in any kind of production environment.
+I don't think I have to say this, but don't use this in any kind of production environment. This was just for fun and a way of learning new stuff. And, finally, feel free to contribute if you want to.
 
 ## Background
 
